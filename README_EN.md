@@ -4,12 +4,6 @@ Our team ([The EST Group](http://estgroupe.com/)) would try to use those package
 
 I'm here to thanks for those authors who create packages, because of you the laravel framework would become a powerful more and more.
 
----
-
-Welcome to follow `LaravelTips` on wechat, this account will focus on the services to serve the laravel developers, we try to help those developers to learning the laravel framework better and faster.
-
-![](http://ww4.sinaimg.cn/large/76dc7f1bjw1f23moqj4qzj20by0bywfa.jpg)
-
 ### Laravel top 100 packages
 
 ...

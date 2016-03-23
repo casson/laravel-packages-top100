@@ -10,7 +10,7 @@ Welcome to follow `LaravelTips` on wechat, this account will focus on the servic
 
 ## Installation
 
-We are using homestead as our local development environment, and before we get started, make sure you already install `homestead` and `vagrant` in your local machine.
+We are using [homestead]() as our local development environment, and before we get started, make sure you already install `homestead` and `vagrant` in your local machine.
 
 ### 1. Download the source code
 
