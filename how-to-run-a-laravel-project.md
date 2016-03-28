@@ -2,12 +2,6 @@
 
 This documentation will show you how to run a laravel project quickly.
 
----
-
-Welcome to follow `LaravelTips` on wechat, this account will focus on the services to serve the laravel developers, we try to help those developers to learning the laravel framework better and faster.
-
-![](http://ww4.sinaimg.cn/large/76dc7f1bjw1f23moqj4qzj20by0bywfa.jpg)
-
 ## Installation
 
 We are using [homestead]() as our local development environment, and before we get started, make sure you already install `homestead` and `vagrant` in your local machine.
@@ -62,3 +56,9 @@ Add this line to file:
 	127.0.0.1  	demo-name
 
 Finally, you can access http://demo-name.app to check the result.
+
+---
+
+欢迎关注 `LaravelTips`, 一个专注于为 Laravel 开发者服务, 致力于帮助开发者更好的掌握 Laravel 框架, 提升开发效率的微信公众号.
+
+![](http://ww4.sinaimg.cn/large/76dc7f1bjw1f23moqj4qzj20by0bywfa.jpg)
