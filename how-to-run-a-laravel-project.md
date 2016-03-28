@@ -45,7 +45,15 @@ Copy `.env.example` to `.env`
 cp .env.example .env
 ```
 
-### 5. Modify `hosts` file
+### 5. Create tables and generate test data.
+
+You can skip this step if there are no any databases in your project.
+
+```shell
+php artisan migrate --seed
+```
+
+### 6. Modify `hosts` file
 
 Open it by this command:
 
